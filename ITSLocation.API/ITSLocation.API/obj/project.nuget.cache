@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lyFai7B5snmV+kHuXRQNxpL7I8FOlpGKWQpvcqfN4i05jaKlL5j33FSMbuejs6m5v07F9Cmeft28nm1l01Vjdw==",
+  "dgSpecHash": "kabRqP9+Ry6IPjl3SOPUp0ZMSnRt9QqGxh7VUltblQ7WGSHOU9gSfGItsb0yD/K/JX+cCCFXBMIWpI8xoKtuwA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ctaba\\source\\repos\\ITSLocation.API\\ITSLocation.API\\ITSLocation.API.csproj",
+  "projectFilePath": "C:\\Users\\ctaba\\OneDrive\\Documentos\\ITSLocation_VictorMartinez\\ITSLocation.API\\ITSLocation.API\\ITSLocation.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ctaba\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\ctaba\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
