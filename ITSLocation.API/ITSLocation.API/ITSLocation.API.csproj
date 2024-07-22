@@ -7,11 +7,16 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+    <PackageReference Include="NLog" Version="5.3.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="test\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ITSLocation.API.UnitTesting\ITSLocation.API.UnitTesting.csproj" />
   </ItemGroup>
 
 </Project>
